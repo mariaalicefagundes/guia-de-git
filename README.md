@@ -2,11 +2,12 @@
 
 Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
-## Dupla (ou trio)
+## Dupla (ou trio ou quarteto)
 
 - Maria Alice Silva Fagundes (mariaalicefagundes)
 - Laura Sales Morais (laurasales-commits)
 - Tainá Medeiros Nunes (tainamedn)
+- Heitor Filipe Garcia do Carmo (heitorcarmo)
 
 ## Como contribuir
 
